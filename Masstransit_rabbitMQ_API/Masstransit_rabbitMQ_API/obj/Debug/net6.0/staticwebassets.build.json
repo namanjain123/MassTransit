@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JN9LtcONqKoBSuEeyeduaWVjZ9tWSUr5JuXyTpTm2BA=",
+  "Source": "Masstransit_rabbitMQ_API",
+  "BasePath": "_content/Masstransit_rabbitMQ_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Masstransit_rabbitMQ_API.props" />
+</Project>
